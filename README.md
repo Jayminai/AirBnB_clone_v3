@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 George Godstime - [Github](https://github.com/jayminai) / [Twitter](https://twitter.com/jaydagen2)  
-Jennifer Huang - [Github](https://github.com/kz-prince) / [Twitter](https://twitter.com/earthtojhuang) 
+Che O'Neal - [Github](https://github.com/kz-prince) / [Twitter](https://twitter.com/kzprince1234) 
 
 =======
 
